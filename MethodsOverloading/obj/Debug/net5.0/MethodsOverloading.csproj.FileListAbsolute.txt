@@ -1,0 +1,16 @@
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.exe
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.deps.json
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.runtimeconfig.json
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.runtimeconfig.dev.json
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.dll
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\ref\MethodsOverloading.dll
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\bin\Debug\net5.0\MethodsOverloading.pdb
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.csproj.AssemblyReference.cache
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.AssemblyInfoInputs.cache
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.AssemblyInfo.cs
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.dll
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\ref\MethodsOverloading.dll
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.pdb
+C:\WORK\REPO\MethodsOverloading\MethodsOverloading\obj\Debug\net5.0\MethodsOverloading.genruntimeconfig.cache
